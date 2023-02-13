@@ -8,4 +8,4 @@ def main(a):
     """
     # Write your code here
     return a==b
-print(main(7))
+print(main(7,6))
